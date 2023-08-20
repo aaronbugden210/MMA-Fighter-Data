@@ -9,5 +9,4 @@ If a fighter's weight class was not written down either, it was replaced with 'U
 There was a substantial amount of missing data in the set and what I filled in was largely what I considered to be the most important data that I wanted to represent.
 I wasn't too concerned with birth dates for this particular project, tho in the future it may be fun to go back and set up the dashboard to represent year of birth.
 For the dashboard, I also enjoyed playing around with creating custom slicers. It's a skill I'd like to work on more and this project was a good
-  one for me to dip my toes into that aspect of excel.
-In the future, one think I'd like to try next is setting up custom orders for the slicers, since the current version has the 'Unknown'/'Not Listed' fields hidden       amongst the slicer fields. But that will come in time.
+  one for me to dip my toes into that aspect of excel. It got me to play around with Custom Lists for the slicer orders as well.
